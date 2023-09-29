@@ -38,6 +38,7 @@
 /* Begin PBXFileReference section */
 		281C7A762AC6927F00E70F8C /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		281C7A782AC693E000E70F8C /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		281C7A7A2AC69AFB00E70F8C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		28C86E262AC683510078B777 /* sampleapp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sampleapp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		28C86E292AC683510078B777 /* sampleappApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sampleappApp.swift; sourceTree = "<group>"; };
 		28C86E2B2AC683510078B777 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -79,6 +80,7 @@
 		28C86E1D2AC683510078B777 = {
 			isa = PBXGroup;
 			children = (
+				281C7A7A2AC69AFB00E70F8C /* README.md */,
 				28C86E282AC683510078B777 /* sampleapp */,
 				28C86E3A2AC683520078B777 /* sampleappTests */,
 				28C86E442AC683520078B777 /* sampleappUITests */,
